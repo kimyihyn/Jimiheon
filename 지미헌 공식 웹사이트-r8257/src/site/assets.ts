@@ -27,14 +27,14 @@ export const ASSETS = {
 
   /** 메뉴 사진 · 정사각 또는 4:5. 개수를 늘리면 src/site/copy.ts 의 dishes 도 같은 순서로 늘려 주세요. */
   dishes: [
-    "/images/meun1.png",
-    "/images/meun2.png",
-    "/images/meun3.png",
-    "/images/meun4.png",
-    "/images/meun5.png",
-    "/images/meun6.png",
-    "/images/meun7.png",
-    "/images/meun8.png",
+    "/images/menu1.png",
+    "/images/menu2.png",
+    "/images/menu3.png",
+    "/images/menu4.png",
+    "/images/menu5.png",
+    "/images/menu6.png",
+    "/images/menu7.png",
+    "/images/menu8.png",
   ],
 };
 
